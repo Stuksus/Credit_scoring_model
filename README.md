@@ -1,1 +1,1 @@
-# course_project
+# Credit scoring model
